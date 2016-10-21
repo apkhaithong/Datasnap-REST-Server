@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/10/08 14:58:14.000.930,=E:\SourceDX10\RestServer\FormUnit1.pas</Transaction>
+    <Transaction>2016/10/08 14:58:18.000.893,=E:\SourceDX10\RestServer\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>2016/10/08 14:58:22.000.864,=E:\SourceDX10\RestServer\ServerContainerUnit1.pas</Transaction>
+    <Transaction>2016/10/08 14:58:23.000.055,=E:\SourceDX10\RestServer\WebModuleUnit1.pas</Transaction>
+    <Transaction>2016/10/08 14:58:26.000.306,=E:\SourceDX10\RestServer\js\json2.js</Transaction>
+    <Transaction>2016/10/08 14:58:26.000.592,=E:\SourceDX10\RestServer\js\connection.js</Transaction>
+    <Transaction>2016/10/08 14:58:26.000.442,=E:\SourceDX10\RestServer\js\base64-min.js</Transaction>
+    <Transaction>2016/10/08 14:58:26.000.699,=E:\SourceDX10\RestServer\css\serverfunctioninvoker.css</Transaction>
+    <Transaction>2016/10/08 14:58:26.000.487,=E:\SourceDX10\RestServer\js\json2-min.js</Transaction>
+    <Transaction>2016/10/08 14:58:26.000.641,=E:\SourceDX10\RestServer\js\serverfunctioninvoker.js</Transaction>
+    <Transaction>2016/10/08 14:58:26.000.563,=E:\SourceDX10\RestServer\js\callbackframework-min.js</Transaction>
+    <Transaction>2016/10/08 14:58:26.000.822,=E:\SourceDX10\RestServer\images\expand.png</Transaction>
+    <Transaction>2016/10/08 14:58:26.000.543,=E:\SourceDX10\RestServer\js\serverfunctionexecutor-min.js</Transaction>
+    <Transaction>2016/10/08 14:58:26.000.768,=E:\SourceDX10\RestServer\templates\serverfunctioninvoker.html</Transaction>
+    <Transaction>2016/10/08 14:58:26.000.721,=E:\SourceDX10\RestServer\templates\reversestring.html</Transaction>
+    <Transaction>2016/10/08 14:58:26.000.424,=E:\SourceDX10\RestServer\js\serverfunctions.js</Transaction>
+    <Transaction>2016/10/08 14:58:26.000.797,=E:\SourceDX10\RestServer\images\collapse.png</Transaction>
+    <Transaction>2016/10/08 14:58:26.000.221,=E:\SourceDX10\RestServer\js\base64.js</Transaction>
+    <Transaction>2016/10/08 14:58:26.000.261,=E:\SourceDX10\RestServer\js\serverfunctionexecutor.js</Transaction>
+    <Transaction>2016/10/08 14:58:26.000.371,=E:\SourceDX10\RestServer\js\callbackframework.js</Transaction>
+    <Transaction>2016/10/08 14:58:26.000.664,=E:\SourceDX10\RestServer\css\main.css</Transaction>
+    <Transaction>2016/10/08 15:01:39.000.571,=E:\SourceDX10\RestServer\DataSetConverter4D.Impl.pas</Transaction>
+    <Transaction>2016/10/08 15:01:39.000.626,=E:\SourceDX10\RestServer\DataSetConverter4D.pas</Transaction>
+    <Transaction>2016/10/08 15:01:39.000.685,=E:\SourceDX10\RestServer\DataSetConverter4D.Util.pas</Transaction>
+    <Transaction>2016/10/08 15:01:39.000.512,=E:\SourceDX10\RestServer\DataSetConverter4D.Helper.pas</Transaction>
+    <Transaction>2016/10/10 09:31:14.000.903,=E:\SourceDX10\RestServer\templates\test.html</Transaction>
+    <Transaction>2016/10/10 10:25:45.000.972,=E:\SourceDX10\RestServer\fonts\glyphicons-halflings-regular.woff</Transaction>
+    <Transaction>2016/10/10 10:25:45.000.850,=E:\SourceDX10\RestServer\fonts\glyphicons-halflings-regular.svg</Transaction>
+    <Transaction>2016/10/10 10:25:45.000.782,=E:\SourceDX10\RestServer\fonts\glyphicons-halflings-regular.eot</Transaction>
+    <Transaction>2016/10/10 10:25:45.000.902,=E:\SourceDX10\RestServer\fonts\glyphicons-halflings-regular.ttf</Transaction>
+    <Transaction>2016/10/10 10:25:46.000.043,=E:\SourceDX10\RestServer\fonts\glyphicons-halflings-regular.woff2</Transaction>
+  </Transactions>
+</BorlandProject>
